@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Singal</h1>
-<h3 align="center">Backend Engineer | IaC | Scalable Systems | Open Source Contributor</h3>
+<h3 align="center">Backend Engineer | IAC | Scalable Systems | Open Source Contributor</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nileshsingal&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsingal" />
