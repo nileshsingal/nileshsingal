@@ -13,6 +13,7 @@
 - Experienced in designing **backend services, Infrastructure as Code (IaC), and asynchronous workflows**
 - Strong interest in **system design, correctness, concurrency, and performance trade-offs**
 - Active **open-source contributor**, collaborating with maintainers of widely used Python libraries
+- 
 
 ---
 
