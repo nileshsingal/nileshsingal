@@ -65,7 +65,6 @@ I contribute to production-grade Python open-source projects by fixing real-worl
 ## 💼 Featured Engineering Work
 
 - **Automotive Data-Processing Pipelines:** Designed event-driven AWS infrastructure processing heterogeneous data (AVI, MCAP) using Lambda, Step Functions, and ECS Fargate. Implemented distributed concurrency control using DynamoDB semaphores and SQS FIFO with exponential backoff for robust back-pressure handling.
-- **GPU Model Validation Platform:** Built a fault-tolerant, fan-out/fan-in orchestration platform for MLOps workloads across GPU-based EC2 clusters. Built a pre-execution cost and ETA estimator using production runtime data and AWS pricing models.
 - **Campaign Automation & CMS Migration:** Developed scalable Python/Django backends for automation platforms (including Google and GroupM). Integrated Meta APIs for automated campaign management and led internal migrations to Wagtail CMS on GCP.
 
 ---
